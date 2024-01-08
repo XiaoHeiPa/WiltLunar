@@ -1,0 +1,8 @@
+{
+  "mixinConfigs": [
+    "wilt.mixins.json"
+  ],
+  "entrypoints": [
+    "op.wawa.wilt.ModEntry"
+  ]
+}

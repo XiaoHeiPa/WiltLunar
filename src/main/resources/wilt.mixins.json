@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "op.wawa.wilt.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinBlock",
+    "MixinBlockFarmland",
+    "MixinBlockLadder",
+    "MixinC08PacketPlayerBlockPlacement",
+    "MixinEntity",
+    "MixinEntityLivingBase",
+    "MixinGameSettings",
+    "MixinItemBlock",
+    "MixinLilyPad",
+    "MixinMinecraft",
+    "MixinMultiplayer",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager",
+    "MixinNetworkManagerChInit",
+    "MixinWorld",
+    "MixinWorldRenderer"
+  ]
+}
